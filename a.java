@@ -1,5 +1,7 @@
 import java.lang.*;
 import java.util.*;
+class Bubblesort
+{
     public static void main(String args[])
     {
         Scanner s=new Scanner(System.in);
@@ -22,3 +24,4 @@ import java.util.*;
         for(int a=0;a<n;a++)
             System.out.print(arr[a]);
     }
+}
