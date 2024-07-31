@@ -4,6 +4,6 @@ class HelloWorld {
     public static void main(String args[])
     {
         System.out.println("Hello, World");
-        System.out.println("Java automatic build");
+        System.out.println("Java application automatic build");
     }
 }
